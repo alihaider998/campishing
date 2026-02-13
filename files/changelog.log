@@ -1,0 +1,20 @@
+v2.3
+
+1. Added new tunneler loclx
+2. Added docker image
+
+v2.2
+
+1. Added social media preview for links
+
+v2.1
+1. Added argument support
+
+v2.0
+1. Added Cloudflared tunneler
+
+v1.1
+1. Added versioning
+
+v1.0
+1. Initial Commit
