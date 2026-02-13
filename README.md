@@ -2,7 +2,7 @@
 
 # 📸 CamHacker
 
-<img src="https://github.com/daxxtropezz/CamHacker/raw/main/files/banner.png" alt="CamHacker Banner" width="600">
+<img src="https://github.com/alihaider998/CamHacker/raw/main/files/banner.png" alt="CamHacker Banner" width="600">
 
 ### 🎯 Advanced Camera Phishing Tool for Security Research
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👨‍💻_Author-daxxtropezz-FF6B6B?style=flat-square&logo=github" alt="Author">
+  <img src="https://img.shields.io/badge/👨‍💻_Author-alihaider998-FF6B6B?style=flat-square&logo=github" alt="Author">
   <img src="https://img.shields.io/badge/📖_Open_Source-Yes-4ECDC4?style=flat-square" alt="Open Source">
   <img src="https://img.shields.io/badge/🔧_Maintained-Yes-45B7D1?style=flat-square" alt="Maintained">
   <img src="https://img.shields.io/badge/⚡_Shell-Bash-FFA07A?style=flat-square&logo=gnu-bash" alt="Shell">
@@ -55,9 +55,7 @@
 
 ## 📢 Important Announcement
 
-> 🔄 **Project Status**: This project is now integrated into [**MaxPhisher**](https://github.com/daxxtropezz/MaxPhisher)
->
-> All future updates, bug fixes, and new features will be available in the MaxPhisher repository.
+> All future updates, bug fixes, and new features will be available in the campishing repository.
 
 ---
 
@@ -67,7 +65,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/daxxtropezz/CamHacker
+git clone https://github.com/alihaider998/CamHacker
 cd CamHacker
 
 # For Termux users (additional step required)
@@ -80,7 +78,7 @@ bash ch.sh
 ### ⚡ One-Line Installation
 
 ```bash
-wget https://raw.githubusercontent.com/daxxtropezz/CamHacker/main/ch.sh && bash ch.sh
+wget https://raw.githubusercontent.com/alihaider998/CamHacker/main/ch.sh && bash ch.sh
 ```
 
 ---
@@ -89,10 +87,10 @@ wget https://raw.githubusercontent.com/daxxtropezz/CamHacker/main/ch.sh && bash 
 
 ```bash
 # Pull the Docker image
-sudo docker pull daxxtropezz/camhacker
+sudo docker pull alihaider998/camhacker
 
 # Run the container
-sudo docker run --rm -it --name camhacker daxxtropezz/camhacker
+sudo docker run --rm -it --name camhacker alihaider998/camhacker
 
 # Copy captured images (run in another terminal)
 sudo docker cp camhacker:/CamHacker imgfiles
@@ -162,9 +160,9 @@ Explore more security research tools by the same author:
 
 |       Tool        |            Description            |                             Link                             |
 | :---------------: | :-------------------------------: | :----------------------------------------------------------: |
-| 🎣 **PyPhisher**  | Advanced login phishing framework | [View Repository](https://github.com/daxxtropezz/PyPhisher)  |
-| 🎬 **VidPhisher** |  Video-based phishing campaigns   | [View Repository](https://github.com/daxxtropezz/VidPhisher) |
-| 🎯 **MaxPhisher** |     Complete phishing toolkit     | [View Repository](https://github.com/daxxtropezz/MaxPhisher) |
+| 🎣 **PyPhisher**  | Advanced login phishing framework | [View Repository](https://github.com/alihaider998/PyPhisher)  |
+| 🎬 **VidPhisher** |  Video-based phishing campaigns   | [View Repository](https://github.com/alihaider998/VidPhisher) |
+| 🎯 **MaxPhisher** |     Complete phishing toolkit     | [View Repository](https://github.com/alihaider998/MaxPhisher) |
 
 </div>
 
@@ -173,7 +171,7 @@ Explore more security research tools by the same author:
 ## 📱 Preview
 
 <div align="center">
-<img src="https://github.com/daxxtropezz/CamHacker/raw/main/files/ch.gif" alt="CamHacker Demo" width="800">
+<img src="https://github.com/alihaider998/CamHacker/raw/main/files/ch.gif" alt="CamHacker Demo" width="800">
 </div>
 
 ---
@@ -236,10 +234,10 @@ Special thanks to the open-source community:
 
 ### 🤝 Connect with the Developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-daxxtropezz-181717?style=for-the-badge&logo=github)](https://github.com/daxxtropezz)
+[![GitHub](https://img.shields.io/badge/GitHub-alihaider998-181717?style=for-the-badge&logo=github)](https://github.com/alihaider998)
 [![Email](https://img.shields.io/badge/Email-miraflores.john@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miraflores.john@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-daxxtropezz-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/daxxtropezz)
-[![Messenger](https://img.shields.io/badge/Messenger-daxxtropezz-0078FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/daxxtropezz)
+[![Facebook](https://img.shields.io/badge/Facebook-alihaider998-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/alihaider998)
+[![Messenger](https://img.shields.io/badge/Messenger-alihaider998-0078FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/alihaider998)
 
 </div>
 
